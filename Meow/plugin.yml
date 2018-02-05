@@ -1,0 +1,7 @@
+main: com.weaves.meow.Meow
+version: 1.0
+name: Meow
+commands:
+  meow:
+    description: Meow!
+    usage: /<command>
